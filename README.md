@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [tmcw/simple-statistics](http://github.com/tmcw/simple-statistics). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/tmcw-simple-statistics`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 [![Build Status](https://secure.travis-ci.org/tmcw/simple-statistics.png?branch=master)](http://travis-ci.org/tmcw/simple-statistics)
 
 A JavaScript implementation of descriptive, regression, and inference statistics.
